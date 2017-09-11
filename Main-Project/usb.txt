@@ -1,0 +1,1 @@
+/dev/sda1: UUID="3071-2817" TYPE="vfat" PARTUUID="2978cbcb-01"
